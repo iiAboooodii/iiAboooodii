@@ -32,3 +32,6 @@
 <a href="https://m.me/xiAbooD"><img align="left" title="Messenger" alt="Messenger" width="48px" src="assets/messenger.png" /></a>
 <a href="https://t.me/i7iii0"><img align="left" title="Telegram" alt="Telegram" width="48px" src="assets/telegram.png" /></a>
 <a href="https://twitter.com/iiAboooodii"><img align="left" title="Twitter" alt="Twitter" width="48px" src="assets/twitter.png" /></a>
+<a href="https://tellonym.me/flxv"><img align="left" title="Tellonym" alt="Tellonym" width="48px" src="assets/tellonym.png" /></a>
+  
+  
