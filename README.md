@@ -28,8 +28,7 @@
 <a href="https://github.com/iiAboooodii"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=iiAboooodii&color=blueviolet&style=flat-square"></a>
 
 <h3><b><i>📡 Get in Touch :</i></b></h3>
-<a href="https://github.com/iiAboooodii"><img align="left" title="Github" alt="Github" width="30px" src="assets/github.png" /></a>
-<a href="https://fb.com/xiAbooD"><img align="left" title="Facebook" alt="Facebook" width="30px" src="assets/facebook.png" /></a>
-<a href="https://m.me/xiAbooD"><img align="left" title="Messenger" alt="Messenger" width="30px" src="assets/messenger.png" /></a>
-
-
+<a href="https://github.com/iiAboooodii"><img align="left" title="Github" alt="Github" width="48px" src="assets/github.png" /></a>
+<a href="https://m.me/xiAbooD"><img align="left" title="Messenger" alt="Messenger" width="48px" src="assets/messenger.png" /></a>
+<a href="https://t.me/i7iii0"><img align="left" title="Telegram" alt="Telegram" width="48px" src="assets/telegram.png" /></a>
+<a href="https://twitter.com/iiAboooodii"><img align="left" title="Twitter" alt="Twitter" width="48px" src="assets/twitter.png" /></a>
