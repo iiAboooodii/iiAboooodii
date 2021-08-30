@@ -18,12 +18,8 @@
 <li> 🤐 <i>Aim : Become a Software Engineer</i></li>
 
 <h3><b><i>☠ Works :</i></b></h3>
-<li> <a href="https://github.com/iiAboooodii/cam-hack">Cam Hack - Get IP Of Any Camera Around 90 Countries.</a>
-<li> <a href="https://github.com/iiAboooodii/dolce">Dolce - Tools Library Contain 370 Tool.</a>
-<li> <a href="https://github.com/iiAboooodii/T-Lazy">T-Lazy - A Script For All The Termux Script-Kiddies Out There.</a>
-<li> <a href="https://github.com/iiAboooodii/fbi-tool">FBI TOOL - Simple Python Tool To Get Facebook Accounts Informations.</a>
-<li> <a href="https://github.com/iiAboooodii/track0ip">Track IP - An IP Tracking Tool written in Bash.</a>
-<li> <a href="https://github.com/iiAboooodii/ccgen">Credit Card Gen - Generate a Fake CC With Informations.</a>
+<li> <a href="https://github.com/iiAboooodii/X-Compiler">X Compiler - Encrype Your Python Or Bash/Shell Files.</a>
+<li> <a href="https://github.com/iiAboooodii/TikTok-Checker">TikTok Checker - Get TikTok Username By Checker Tool.</a>
 
 <h3><b><i>🏆 Github Statistics :</i></b></h3>
 <a href="https://github.com/iiAboooodii"><img width=550 src="https://github-profile-trophy.vercel.app/?username=iiAboooodii&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
