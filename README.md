@@ -25,7 +25,7 @@
 <a href="https://github.com/iiAboooodii"><img width=550 src="https://github-profile-trophy.vercel.app/?username=iiAboooodii&theme=dracula&no-frame=true&title=Followers,Stars,Commit,Repository,Issues"/></a>
 
 <h3><b><i>🏆 Profile Statistics > </i></b></h3>
-<a href="https://github.com/iiAboooodii"><img height="25" title="Counter" src="https://komarev.com/ghpvc/?username=iiAboooodii&color=blueviolet&style=flat-square"></a>
+<a href="https://github.com/iiAboooodii"><img height="25" title="Counter" src="https://camo.githubusercontent.com/67dfbff655d5cf7ff7a9e9e7445406ba823a33adbcbc173b2236ad86be0dea0a/68747470733a2f2f677076632e6172747572696f2e6465762f4b6173526f75647261"></a>
 
 <h3><b><i>📡 Get in Touch > </i></b></h3>
 <a href="https://github.com/iiAboooodii"><img align="left" title="Github" alt="Github" width="48px" src="assets/github.png" /></a>
